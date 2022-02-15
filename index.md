@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Guido Ambasz
 
-You can use the [editor on GitHub](https://github.com/gambasz/gambasz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you for visiting! Please feel free to look at some of my projects:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Analyzing Donald Trump's Tweets and the Stock Market
+In this Data Science tutorial written in Python, I showed how one might approach the Data Science Pipeline using various libraries and methods.
 
-### Markdown
+I set out to see if one could've predicted the price of stocks by analyzing Trump's twitter archive, in order to determine whether there was a correlation and/or causation effect between Trump's positive or negative comments about a company and the price of its stock.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The full tutorial along with its results can be found [here](https://gambasz.github.io/trumptweets)!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gambasz/gambasz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
